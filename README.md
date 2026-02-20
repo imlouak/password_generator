@@ -1,5 +1,3 @@
-Bien sûr, voici la version modifiée de votre README. La section "License" a été mise à jour pour pointer directement vers votre fichier de licence, et j'ai également ajusté le badge de licence en haut du fichier ainsi que l'entrée dans le tableau pour assurer la cohérence.
-
 <div align="center">
 
 # Password Generator & Vault 🔑
