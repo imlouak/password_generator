@@ -1,3 +1,5 @@
+Bien sûr, voici la version modifiée de votre README. La section "License" a été mise à jour pour pointer directement vers votre fichier de licence, et j'ai également ajusté le badge de licence en haut du fichier ainsi que l'entrée dans le tableau pour assurer la cohérence.
+
 <div align="center">
 
 # Password Generator & Vault 🔑
@@ -12,7 +14,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge" alt="License: CC BY-NC-SA 4.0"></a>
+  <a href="https://github.com/imlouak/password_generator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
 </p>
 
 > A secure, **offline-first** desktop application built with Electron that generates strong, deterministic passwords and stores them in an encrypted local vault. Part of the **XutronCore** application suite.
@@ -83,7 +85,7 @@ Downloading this app is now simpler than ever.
 | **Data Storage**      | 100% Local (Offline)                          |
 | **Supported Platforms** | Windows (via Launcher)                        |
 | **Updates**           | Automatic via XutronCore Launcher             |
-| **License**           | CC BY-NC-SA 4.0                               |
+| **License**           | [View License](https://github.com/imlouak/password_generator/blob/main/LICENSE) |
 | **Cost**              | Free                                          |
 
 ---
@@ -139,20 +141,4 @@ If you'd like to contribute code (requires Node.js & npm):
 
 ## 📜 License
 
-Copyright (c) 2025 Xutron
-
-This software is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial** — You may not use the material for commercial purposes.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-This is a human-readable summary of (and not a substitute for) the license.
-The full legal text of the license can be found at:
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+Ce projet est distribué sous la licence spécifiée dans le fichier [LICENSE](https://github.com/imlouak/password_generator/blob/main/LICENSE).
