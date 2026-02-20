@@ -12,7 +12,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge" alt="License: CC BY-NC-SA 4.0"></a>
 </p>
 
 > A secure, **offline-first** desktop application built with Electron that generates strong, deterministic passwords and stores them in an encrypted local vault. Part of the **XutronCore** application suite.
@@ -21,7 +21,7 @@
 
 ## ⚠️ Important: Requires XutronCore Launcher
 
-This application is now managed exclusively through the **[XutronCore Launcher](https://github.com/iamplayerexe/xutroncore/releases/latest)**.
+This application is now managed exclusively through the **[XutronCore Launcher](https://github.com/imlouak/xutroncore/releases/latest)**.
 
 The launcher handles the installation, updates, and launching of this app and all other official XutronCore tools. This ensures you always have the latest, most secure version without needing to manually download files.
 
@@ -31,7 +31,7 @@ The launcher handles the installation, updates, and launching of this app and al
 
 Downloading this app is now simpler than ever.
 
-1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/iamplayerexe/xutroncore/releases/latest)** and download the installer for your operating system (Windows, macOS, or Linux).
+1.  **Download the Launcher:** Go to the **[XutronCore Launcher Releases Page](https://github.com/imlouak/xutroncore/releases/latest)** and download the installer for **Windows**.
 
 2.  **Install & Run the Launcher:** Run the installer and open the XutronCore Launcher application.
 
@@ -64,7 +64,7 @@ Downloading this app is now simpler than ever.
 -   [x] 🔐 **Deterministic Password Generation:** Creates consistent, strong passwords from a secret sentence and app name.
 -   [x] 🗄️ **Secure Encrypted Vault:** All saved passwords are encrypted using AES-256-GCM.
 -   [x] 🔑 **Master Password Protection:** The vault is locked and can only be accessed with your master password.
--   [x] 🖥️ **Cross-Platform:** Available for Windows, macOS, and Linux via the launcher.
+-   [x] 🖥️ **Windows Native:** Designed and optimized exclusively for the Windows operating system.
 -   [x] 🎨 **Light & Dark Modes:** Automatically syncs with your system theme for your comfort.
 -   [x] 🔄 **Seamless Updates:** The XutronCore Launcher handles all updates automatically.
 -   [x] 📦 **Data Management:**
@@ -81,9 +81,9 @@ Downloading this app is now simpler than ever.
 | --------------------- | --------------------------------------------- |
 | **Encryption**        | AES-256-GCM                                   |
 | **Data Storage**      | 100% Local (Offline)                          |
-| **Supported Platforms** | Windows, macOS, Linux (via Launcher)          |
+| **Supported Platforms** | Windows (via Launcher)                        |
 | **Updates**           | Automatic via XutronCore Launcher             |
-| **License**           | Open Source (MIT)                             |
+| **License**           | CC BY-NC-SA 4.0                               |
 | **Cost**              | Free                                          |
 
 ---
@@ -121,7 +121,7 @@ Downloading this app is now simpler than ever.
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue on the repository's **[Issues Page](https://github.com/iamplayerexe/password_generator/issues)**.
+Contributions are welcome! If you find a bug or have a feature request, please open an issue on the repository's **[Issues Page](https://github.com/imlouak/password_generator/issues)**.
 
 If you'd like to contribute code (requires Node.js & npm):
 
@@ -139,4 +139,20 @@ If you'd like to contribute code (requires Node.js & npm):
 
 ## 📜 License
 
-This project is distributed under the **MIT License**. See the `LICENSE` file for more information.
+Copyright (c) 2025 Xutron
+
+This software is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**.
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+This is a human-readable summary of (and not a substitute for) the license.
+The full legal text of the license can be found at:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
